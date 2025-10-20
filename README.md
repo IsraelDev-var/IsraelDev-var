@@ -5,14 +5,14 @@
 ---
 
 ## 🚀 Sobre mí
-Soy un **Desarrollador de Software** con experiencia en **C#, AL (Microsoft Business Central), Node.js, SQL Server** y frameworks modernos como **React, Next.js, Prisma, Tailwind CSS**.  
+Soy un **Desarrollador de Software** con experiencia en **ASP .NET, C#, AL (Microsoft Business Central), Epress JS, Node.js, TypeScript, SQL Server** y frameworks modernos como  **React, Next.js, Prisma, Tailwind CSS**.  
 Actualmente trabajo en **SCADOM**, desarrollando soluciones en **ERP Business Central** para optimizar procesos de ventas, compras y facturación.
 
 ---
 
 ## 👀 Intereses
 - 🌐 Desarrollo de aplicaciones web escalables  
-- 🏗️ Arquitectura de software (**Clean Architecture, SOLID, MVC, Patrones de diseño**)  
+- 🏗️ Arquitectura de software (**Clean Architecture, SOLID, MVC, ONION, Patrones de diseño**)  
 - 🤖 Inteligencia Artificial y análisis de datos  
 - ⚡ Automatización de procesos y optimización de sistemas  
 
