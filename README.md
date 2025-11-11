@@ -1,6 +1,6 @@
 <!-- Encabezado con estilo -->
 <h1 align="center">👋 Hola, soy Israel Vargas Castro</h1>
-<h3 align="center">💻 Desarrollador de Software | Enfoque en Web & ERP</h3>
+<h3 align="center">💻 Desarrollador de Software | Enfoque en BacEnd & ERP</h3>
 
 ---
 
